@@ -24,7 +24,7 @@ I consider having an intermediate level in English
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="noreferrer">
 <img src="https://simpleicons.org/icons/csswizardry.svg" alt="icon-css3" style="width: 40px;">
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="icone-css3">
 
 ### Socials
 
