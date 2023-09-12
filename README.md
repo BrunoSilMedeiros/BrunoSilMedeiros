@@ -24,4 +24,4 @@ I consider having an intermediate level in English
   <br>
   𝐒𝐨𝐜𝐢𝐚𝐥𝐬
 
-<p align="left"> <a href="https://github.com/BrunoMedeiros01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/bruno-medeiros-36b2b9256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a </p>
+<p align="left"> <a href="https://github.com/BrunoSilMedeiros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="www.linkedin.com/in/bruno-medeiros-36b2b9256" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a </p>
